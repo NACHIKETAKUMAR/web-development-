@@ -1,2 +1,2 @@
 alert ("hello world");
-showMessage("fuck u");
+alert("fuck u");
